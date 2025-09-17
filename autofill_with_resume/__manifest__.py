@@ -3,7 +3,7 @@
     'version': '17.0.0.1',
     'category': 'Project',
     'author': 'Ahex Technologies',
-    'summary': 'AutoFill With Resume',
+    'summary': 'Automatically extract and fill candidate details from resumes using AI',
     'website': '',
     'sequence': '10',
     'description': """
